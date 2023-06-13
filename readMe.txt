@@ -1,3 +1,1 @@
-//this is initial commit
-
-//second commit
+// Redme file deleted
